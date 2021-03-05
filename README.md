@@ -9,7 +9,7 @@ Curiosities and info:
 - Reach me by: leonardo.prado@sysvale.com, leolleo.comp@gmail.com or my twitter account [@oleolleo](https://twitter.com/oleolleo)
 - 💬 Ask me about bad jokes
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I listen to game soundtracks while working :D
+- ⚡ Fun fact: I listen to game soundtracks while working
 
 
 [![Youtube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNwIxxl5aoqjGrniw2Smviw) 
