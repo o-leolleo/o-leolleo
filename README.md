@@ -1,9 +1,6 @@
 ### Hi there 👋 I'm Leo (leolleo)
 
-<!--
-**leolleocomp/leolleocomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-I'm currently focusing on
+I'm currently focusing on:
 
 - 🔭 Working with Infrastructure as Code (IaC) to automate and document manual infra/processes
 - 🌱 Learning IaC tools, development practices and the ops side of software development
